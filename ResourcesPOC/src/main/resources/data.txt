@@ -1,0 +1,4 @@
+author,quote
+Maya Angelou,"Success is liking yourself, liking what you do, and liking how you do it."
+Albert Einstein,"The important thing is not to stop questioning. Curiosity has its own reason for existing."
+Nelson Mandela,"Education is the most powerful weapon which you can use to change the world."
